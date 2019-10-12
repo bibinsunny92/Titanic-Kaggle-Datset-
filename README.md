@@ -1,2 +1,10 @@
-# Titanic-Kaggle-Datset-
-Predicting whether passengers survived the Titanic shipwreck.
+## Titanic: Machine Learning from Disaster
+
+The sinking of the Titanic is one of the most infamous shipwrecks in history. Challenge is to predict whether passengers survived the Titanic shipwreck.
+
+### Overview
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+Aim is to build a basic binary classification model to predict whether people were likely to survive.
